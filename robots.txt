@@ -1,0 +1,8 @@
+user-agent: *
+allow: /
+
+disallow: /documentation/
+disallow: /cc-growth-sandbox/
+disallow: /internal/
+
+sitemap: https://blog.adobe.com/sitemap-index.xml
